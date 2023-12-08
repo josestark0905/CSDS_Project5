@@ -1,0 +1,5 @@
+PING hochschule-biberach.de (193.197.112.80) 56(84) bytes of data.
+
+--- hochschule-biberach.de ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 50187ms
+

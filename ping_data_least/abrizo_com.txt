@@ -1,0 +1,5 @@
+PING abrizo.com (174.142.139.244) 56(84) bytes of data.
+
+--- abrizo.com ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 50162ms
+

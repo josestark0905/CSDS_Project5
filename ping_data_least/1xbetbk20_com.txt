@@ -1,0 +1,5 @@
+PING 1xbetbk20.com (45.135.122.227) 56(84) bytes of data.
+
+--- 1xbetbk20.com ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 50180ms
+
