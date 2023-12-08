@@ -1,5 +1,0 @@
-PING luckleva.xyz (165.232.112.113) 56(84) bytes of data.
-
---- luckleva.xyz ping statistics ---
-50 packets transmitted, 0 received, 100% packet loss, time 50174ms
-

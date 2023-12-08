@@ -1,5 +1,0 @@
-PING eolziwf.com (34.210.28.62) 56(84) bytes of data.
-
---- eolziwf.com ping statistics ---
-50 packets transmitted, 0 received, 100% packet loss, time 50156ms
-

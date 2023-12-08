@@ -1,5 +1,0 @@
-PING communityds.com.au (13.239.141.68) 56(84) bytes of data.
-
---- communityds.com.au ping statistics ---
-50 packets transmitted, 0 received, 100% packet loss, time 50171ms
-

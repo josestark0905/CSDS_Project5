@@ -1,5 +1,0 @@
-PING hualientour.com.tw (172.105.227.187) 56(84) bytes of data.
-
---- hualientour.com.tw ping statistics ---
-50 packets transmitted, 0 received, 100% packet loss, time 50178ms
-

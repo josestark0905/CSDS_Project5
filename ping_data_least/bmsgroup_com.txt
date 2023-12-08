@@ -1,5 +1,0 @@
-PING bmsgroup.com (52.18.136.112) 56(84) bytes of data.
-
---- bmsgroup.com ping statistics ---
-50 packets transmitted, 0 received, 100% packet loss, time 50171ms
-

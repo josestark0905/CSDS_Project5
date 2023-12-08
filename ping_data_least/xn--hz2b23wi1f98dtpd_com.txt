@@ -1,5 +1,0 @@
-PING xn--hz2b23wi1f98dtpd.com (119.205.197.48) 56(84) bytes of data.
-
---- xn--hz2b23wi1f98dtpd.com ping statistics ---
-50 packets transmitted, 0 received, 100% packet loss, time 50180ms
-

@@ -1,5 +1,0 @@
-PING baclays.de (165.160.15.20) 56(84) bytes of data.
-
---- baclays.de ping statistics ---
-50 packets transmitted, 0 received, 100% packet loss, time 50162ms
-

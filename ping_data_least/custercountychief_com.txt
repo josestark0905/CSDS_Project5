@@ -1,5 +1,0 @@
-PING custercountychief.com (192.104.183.209) 56(84) bytes of data.
-
---- custercountychief.com ping statistics ---
-50 packets transmitted, 0 received, 100% packet loss, time 50181ms
-
